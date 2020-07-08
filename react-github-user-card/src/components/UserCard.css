@@ -1,0 +1,36 @@
+.user-card-container {
+    
+    padding: 10px;
+
+    background-image: linear-gradient(#11AA99, #118844);
+
+    box-shadow: 10px 20px;
+
+}
+
+img {
+
+    border-radius: 10px;
+
+}
+
+h1 {
+
+    font-size: 3rem;
+    color: #FFEEEE;
+
+}
+
+h2 {
+
+    font-size: 2.5rem;
+    color: #FFDDDD;
+
+}
+
+h3 {
+
+    font-size: 2rem;
+    color: #FFCCCC;
+
+}
